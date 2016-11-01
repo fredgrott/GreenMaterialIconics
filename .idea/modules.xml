@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreenMaterialIconics.iml" filepath="$PROJECT_DIR$/GreenMaterialIconics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community-material-typeface-library/community-material-typeface-library.iml" filepath="$PROJECT_DIR$/community-material-typeface-library/community-material-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devicon-typeface-library/devicon-typeface-library.iml" filepath="$PROJECT_DIR$/devicon-typeface-library/devicon-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entypo-typeface-library/entypo-typeface-library.iml" filepath="$PROJECT_DIR$/entypo-typeface-library/entypo-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fontawesome-typeface-library/fontawesome-typeface-library.iml" filepath="$PROJECT_DIR$/fontawesome-typeface-library/fontawesome-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foundation-icons-typeface-library/foundation-icons-typeface-library.iml" filepath="$PROJECT_DIR$/foundation-icons-typeface-library/foundation-icons-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-material-typeface-library/google-material-typeface-library.iml" filepath="$PROJECT_DIR$/google-material-typeface-library/google-material-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ionicons-typeface-library/ionicons-typeface-library.iml" filepath="$PROJECT_DIR$/ionicons-typeface-library/ionicons-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-core/library-core.iml" filepath="$PROJECT_DIR$/library-core/library-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-design-iconic-typeface-library/material-design-iconic-typeface-library.iml" filepath="$PROJECT_DIR$/material-design-iconic-typeface-library/material-design-iconic-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meteocons-typeface-library/meteocons-typeface-library.iml" filepath="$PROJECT_DIR$/meteocons-typeface-library/meteocons-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/octicons-typeface-library/octicons-typeface-library.iml" filepath="$PROJECT_DIR$/octicons-typeface-library/octicons-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/typeicons-typeface-library/typeicons-typeface-library.iml" filepath="$PROJECT_DIR$/typeicons-typeface-library/typeicons-typeface-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-icons-typeface-library/weather-icons-typeface-library.iml" filepath="$PROJECT_DIR$/weather-icons-typeface-library/weather-icons-typeface-library.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':library-core', ':community-material-typeface-library', ':devicon-typeface-library', ':entypo-typeface-library', ':fontawesome-typeface-library', ':foundation-icons-typeface-library', ':google-material-typeface-library', ':ionicons-typeface-library', ':material-design-iconic-typeface-library', ':meteocons-typeface-library', ':octicons-typeface-library', ':typeicons-typeface-library', ':weather-icons-typeface-library'

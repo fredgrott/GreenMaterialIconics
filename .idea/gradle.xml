@@ -10,6 +10,19 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/community-material-typeface-library" />
+            <option value="$PROJECT_DIR$/devicon-typeface-library" />
+            <option value="$PROJECT_DIR$/entypo-typeface-library" />
+            <option value="$PROJECT_DIR$/fontawesome-typeface-library" />
+            <option value="$PROJECT_DIR$/foundation-icons-typeface-library" />
+            <option value="$PROJECT_DIR$/google-material-typeface-library" />
+            <option value="$PROJECT_DIR$/ionicons-typeface-library" />
+            <option value="$PROJECT_DIR$/library-core" />
+            <option value="$PROJECT_DIR$/material-design-iconic-typeface-library" />
+            <option value="$PROJECT_DIR$/meteocons-typeface-library" />
+            <option value="$PROJECT_DIR$/octicons-typeface-library" />
+            <option value="$PROJECT_DIR$/typeicons-typeface-library" />
+            <option value="$PROJECT_DIR$/weather-icons-typeface-library" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
